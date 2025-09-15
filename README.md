@@ -94,3 +94,9 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 - Deploy a React or Angular frontend to the same VM configured so that it can talk to backend
 - Screenshot the various parts of your stack in action and post the results here
 
+I ran the project form docker compose so everything was run on azure
+![terminalAzure](assets/terminalComposeResult.png)
+
+this is the client from azure
+![azure](assets/clientFrontEndOnAzure.png)
+
